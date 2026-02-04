@@ -3,3 +3,5 @@
 // const math=require("./Math");
 // console.log("value",math(5,10));
 console.log("hello arjun ");
+const math=require("./path");
+console.log("value",math);

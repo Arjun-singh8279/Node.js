@@ -1,12 +1,20 @@
 {
-  "name": "basic",
+  "name": "backend-node-",
   "version": "1.0.0",
-  "main": "hello.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "run": "node hello.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arjun-singh8279/Node.js.git"
+  },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arjun-singh8279/Node.js/issues"
+  },
+  "homepage": "https://github.com/Arjun-singh8279/Node.js#readme",
   "description": ""
 }
